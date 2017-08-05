@@ -3,3 +3,4 @@ Geolocical structure:
 -Ligh atmosphere
 -Elements to farm
 -Little Oxygen
+--Gl orig 1
