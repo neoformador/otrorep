@@ -4,3 +4,5 @@ Geolocical structure:
 -Elements to farm
 -Little Oxygen
 --Gl orig 1
+--Paralela gl 2
+--Paral gl linea 3
