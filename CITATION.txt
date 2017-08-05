@@ -1,0 +1,11 @@
+To reference this curse in publications, please cite both of the following:
+
+Ander: "Software Carpentry: Shell, Git, Python". IFT,
+October 2017.
+
+@online{ander-software-carpentry-ift-2017,
+  author      = {Ander},
+  title       = {Software Carpentry: Shell, Git, Python},
+  version     = {1},
+  date        = {2017-10-10},
+}
