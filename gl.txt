@@ -6,3 +6,4 @@ Geolocical structure:
 --Gl orig 1
 --Paralela gl 2
 --Paral gl linea 3
+-Una nueva linea para hacer push con RStudio
