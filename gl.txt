@@ -3,3 +3,6 @@ Geolocical structure:
 -Ligh atmosphere
 -Elements to farm
 -Little Oxygen
+--Paralela gl 1
+--Paralela gl 2
+--Paral gl linea 3
